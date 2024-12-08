@@ -33,6 +33,7 @@ so if you want create multiple providers you need to put multiple proxy there.
 
    ```bash
    git clone https://github.com/Choki625/Oasis-Bot.git
+   cd Oasis-Bot
    ```
 
 2. Install dependencies:
